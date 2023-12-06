@@ -3,7 +3,7 @@
 
 body {
 
-	background-color:#FCEBB6;
+	background-color:#412f2e;
 	color: #D2B48C;
 	margin: 0;
 	font-family: Tahoma, Arial, Helvetiva;
@@ -19,7 +19,7 @@ body {
 	padding: 0;
 }
 header {
-	 background-color: #D2B48C; 
+	 background-color: #811121; 
         background-image: url("../Lebrun javajam 8/images/cup.jpg");
 		background-repeat: no-repeat;
         color: #231814;
@@ -46,13 +46,13 @@ h1 {
 	font-size:2.3em;
 }
 h2 {
-	color: #8C3826;
+	color: #42050c;
 }
 h3 {
-	color: #8C3826;
+	color: #42050c;
 	}	
 dt {
-	color: #8C3826;
+	color: #42050c;
 	}
 h4 { 
 	background-color: #D2B48C;
@@ -72,7 +72,7 @@ nav a {
 		text-decoration: none;
 		}
 nav a:link {
-	color: #FEF6C2
+	color: #cc9e8f
 }
 nav a:visited{ 
 	color: #D2B48C; 
@@ -96,7 +96,7 @@ nav li {
 }
 
 main {
-	background-color: #FEF6C2;
+	background-color: #cc9e8f;
     display: block;
     padding: 0 0 2em 0; 
 	}
@@ -157,12 +157,12 @@ h2, h3, h4, p, div, div, ul, dl{
 	
 }
 footer {
-		background-color: #D2B48C;
+		background-color: #811121;
 		font-size: 0.60em;
 		font-style: italic;
 		text-align: center;
 		padding: 1em;
-		border-top: 2px solid #8C3826 ;
+		border-top: 2px solid #42050c ;
 	}
 
 /*
